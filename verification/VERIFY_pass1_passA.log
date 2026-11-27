@@ -1,0 +1,7 @@
+senate 5075 m=-30.0676 b=14.2008 r2=0.587 D%=55.06 R%=42.97 removed=1,889,815 offsetshare=0.743 zeroed=4 after D%=35.95 R%=62.08 margin=-26.13 countiesD 40->19 overDR=[] overall=0
+governor 3579 m=-31.6914 b=13.4457 r2=0.629 D%=52.80 R%=45.67 removed=1,758,291 offsetshare=0.756 zeroed=4 after D%=35.05 R%=63.42 margin=-28.37 countiesD 37->16 overDR=['Starr', 'Maverick', 'Zapata', 'Duval', 'Zavala', 'La Salle', 'Jim Hogg', 'Culberson', 'Terrell', 'Kent', 'McMullen'] overall=241
+lt_governor 4714 m=-37.2059 b=12.8342 r2=0.670 D%=51.73 R%=45.63 removed=1,891,743 offsetshare=0.670 zeroed=5 after D%=32.48 R%=64.88 margin=-32.40 countiesD 36->15 overDR=[] overall=57
+attorney_general 3 m=-31.9242 b=12.0462 r2=0.565 D%=52.38 R%=45.94 removed=1,673,652 offsetshare=0.710 zeroed=6 after D%=35.30 R%=63.01 margin=-27.71 countiesD 36->17 overDR=['Duval'] overall=21
+comptroller 21 m=-34.2188 b=11.9287 r2=0.611 D%=51.30 R%=46.15 removed=1,671,119 offsetshare=0.704 zeroed=6 after D%=34.20 R%=63.25 margin=-29.04 countiesD 34->16 overDR=['Duval', 'Throckmorton'] overall=13
+agriculture 19 m=-33.7397 b=12.2224 r2=0.606 D%=51.31 R%=46.65 removed=1,624,022 offsetshare=0.743 zeroed=6 after D%=34.61 R%=63.34 margin=-28.73 countiesD 35->17 overDR=['Duval'] overall=7
+railroad 4843 m=-33.1158 b=12.1329 r2=0.588 D%=52.52 R%=45.55 removed=1,703,699 offsetshare=0.703 zeroed=6 after D%=34.98 R%=63.08 margin=-28.10 countiesD 36->17 overDR=['Duval'] overall=4

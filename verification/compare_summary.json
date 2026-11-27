@@ -1,0 +1,83 @@
+{
+ "senate": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "governor": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "lt_governor": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "attorney_general": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "comptroller": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "agriculture": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "railroad": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "ALL": {
+  "total": 62545,
+  "mismatches": 0
+ }
+}

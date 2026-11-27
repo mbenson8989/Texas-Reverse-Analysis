@@ -1,0 +1,90 @@
+senate 5075 JAMES TALARICO KEN PAXTON -30.067560799171822 14.200752481201585 1889815 0.7427596056408785 21
+governor 3579 GINA HINOJOSA GREG ABBOTT (I) -31.691409452792577 13.44574406720818 1758291 0.7558733630698696 21
+lt_governor 4714 VIKKI GOODWIN DAN PATRICK (I) -37.20587924980684 12.834166635980091 1891743 0.6703749985885048 21
+attorney_general 3 NATHAN JOHNSON MAYES MIDDLETON -31.924210511118574 12.046171544169113 1673652 0.7102647990524562 19
+comptroller 21 SARAH ECKHARDT DON HUFFINES -34.21883687763163 11.928691242762124 1671119 0.7044067557117586 18
+agriculture 19 CLAYTON TUCKER NATE SHEETS -33.739682256523935 12.222437201449322 1624022 0.7426829087168879 18
+railroad 4843 JON ROSENTHAL BO FRENCH -33.11577209230593 12.13287206253307 1703699 0.7027618212735323 19
+{
+ "senate": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "governor": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "lt_governor": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "attorney_general": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "comptroller": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "agriculture": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "railroad": {
+  "county_cells": 8890,
+  "county_mismatches": 0,
+  "summary_checks": 40,
+  "summary_mismatches": 0,
+  "sos_checks": 5,
+  "sos_mismatches": 0,
+  "total": 8935,
+  "mismatches": 0,
+  "examples": []
+ },
+ "ALL": {
+  "total": 62545,
+  "mismatches": 0
+ }
+}
